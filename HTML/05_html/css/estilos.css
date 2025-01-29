@@ -1,3 +1,11 @@
 body{
-    background-image: url(../imagen/daniel-sessler-y36Nj_edtRE-unsplash\ \(1\).jpg);
+    background-image: url(../imagen/daniel-sessler-y36Nj_edtRE-unsplash\ \(1\).jpg);  
 }
+
+nav{
+    max-width: 900px;
+    margin: auto;
+    background-color: #16404D;
+    font-size: 20px;
+    margin-top: 50px;
+}   
